@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1711628771 source:c:\users\umut\desktop\project 1 (game dev with c)\code blocks project\spaceshooterwinbgi\main.cpp
+	<graphics.h>
+	<conio.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
